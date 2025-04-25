@@ -1,0 +1,6 @@
+# ninja log v6
+5	899	7672841548975845	CMakeFiles/Trab4_Cifra_Cesar_e_Vinegere.dir/main.cpp.obj	9db0a775fbece861
+900	1056	7672841557932954	Trab4_Cifra_Cesar_e_Vinegere.exe	601680bc74bca25
+2	275	7672859976118365	build.ninja	7337fa82ac4e3617
+5	889	7672859976440488	CMakeFiles/Trab4_Cifra_Cesar_e_Vinegere.dir/CesarCipher.cpp.obj	5eaac02ebd03b7f6
+9	912	7672859976482215	CMakeFiles/Trab4_Cifra_Cesar_e_Vinegere.dir/VinegereCipher.cpp.obj	80eade4a89c08f3b
