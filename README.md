@@ -1,4 +1,3 @@
-# José Augusto Cenci Castilho - BI301231X
 ## Leitor de Cifras: César e Vigenère
 
 Este programa em C++ implementa as Cifras de César e Vigenère de forma interativa, permitindo ao usuário:
